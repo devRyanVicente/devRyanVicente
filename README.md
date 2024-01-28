@@ -1,8 +1,4 @@
-# <><><>
-
-- 📖 Estudandando atualmente 
-
-- 
+# Ola, Bem-Vindo ao Meu Github
 
 ##
 <div> 
