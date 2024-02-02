@@ -5,7 +5,7 @@
 <h3>  👨‍💻Linguagens que me Interesso: <br>
 <div>
   
-  <img width="50" height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
+  <img width="75" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
   <img width="50" height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg">
   <img src= "https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50" height="50"> 
   
