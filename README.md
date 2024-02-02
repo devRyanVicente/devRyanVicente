@@ -5,11 +5,7 @@
 <h3> Outras Linguagens que gosto: <br>
 <div>
   <img width="100" height="100" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
-<img src= "https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="100" height="100"> 
-  
-<img width="100" height="100" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-<img width="100" height="100" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"> 
-<img width="100" height="100" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"> 
+  <img src= "https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="100" height="100"> 
 <div>
   
   </h3>
