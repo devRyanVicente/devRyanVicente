@@ -4,8 +4,11 @@
 - 
 <h3> Outras Linguagens que gosto: <br>
 <div>
+  
   <img width="100" height="100" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
+  <img width="100" height="100" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg">
   <img src= "https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="100" height="100"> 
+  
 <div>
   
   </h3>
