@@ -1,7 +1,7 @@
 # Ola, Bem-Vindo ao Meu Github
-- 📖 Atualmente Estando C#
+- 🫠 Tenho 15 Anos
+- 📖 Atualmente Estudando C#
 - 
--
 <h3> Outras Linguagens que gosto: <br>
 <div>
   <img width="100" height="100" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
