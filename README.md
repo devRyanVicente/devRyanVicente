@@ -1,4 +1,4 @@
-![GIF animado de rotação](https://im4.ezgif.com/tmp/ezgif-4-49783a61dc.png)
+
 # Ola, Bem-Vindo ao Meu Github
 - 🫠 Tenho 15 Anos
 - 📖 Atualmente Estudando C#
